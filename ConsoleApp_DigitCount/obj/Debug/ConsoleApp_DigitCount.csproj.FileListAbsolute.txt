@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ConsoleApp_DigitCount\ConsoleApp_DigitCount\bin\Debug\ConsoleApp_DigitCount.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp_DigitCount\ConsoleApp_DigitCount\bin\Debug\ConsoleApp_DigitCount.exe
+C:\Users\ASUS\source\repos\ConsoleApp_DigitCount\ConsoleApp_DigitCount\bin\Debug\ConsoleApp_DigitCount.pdb
+C:\Users\ASUS\source\repos\ConsoleApp_DigitCount\ConsoleApp_DigitCount\obj\Debug\ConsoleApp_DigitCount.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp_DigitCount\ConsoleApp_DigitCount\obj\Debug\ConsoleApp_DigitCount.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp_DigitCount\ConsoleApp_DigitCount\obj\Debug\ConsoleApp_DigitCount.exe
+C:\Users\ASUS\source\repos\ConsoleApp_DigitCount\ConsoleApp_DigitCount\obj\Debug\ConsoleApp_DigitCount.pdb
